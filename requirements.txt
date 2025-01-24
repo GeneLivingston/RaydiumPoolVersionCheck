@@ -1,6 +1,5 @@
 solana~=0.36.2
 solders~=0.23.0
-
 h11~=0.14.0
 pip~=24.3.1
 construct~=2.10.68
